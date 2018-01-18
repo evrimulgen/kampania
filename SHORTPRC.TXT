@@ -1,0 +1,20 @@
+
+ Spis procedur modulu SHORTPRC.
+ 
+                        (alfabetycznie)
+ Ramka podw¢jna         DRAMKA
+ Intr($33,r)            GO
+ Gotoxy-Write           GW
+ Inicjacja GRAPH	INIT
+ Wyˆ¥cz. kursora        KURSOFF
+ Line			L
+ OutTextxy              OT
+ Ramka zwykˆa           RAMKA
+ RecTangle   		RT  
+ SetColor               SC
+ SetLineStyle		SLS
+ SetTextStyle           STS
+ TextBackground         TB
+ TextColor              TC
+ SFloodStyle+FloodFill  TLO 
+ Wypeˆnienie znakiem    WYPEL

@@ -1,0 +1,164 @@
+
+ ********************************************************************
+          KAMPANIA WRZEóNIOWA v.1.00 (11-31 grudzie‰ 1998r.)
+ ********************************************************************
+
+ SPIS TREóCI
+  1.Wst©p.
+  2.Pomoce naukowe.
+  3.Menu gà¢wne.
+    a) Fakty
+    b) Zabawa
+       - Test
+       - Wrzesie‰'39
+       - MiniGra
+    c) Pomoc
+  4.Notka.
+  5.Waæniejsze problemy.
+  6.Podzi©kowania.
+
+ POMOC
+ 1. Program ten przedstawia najwaæniejsze wydarzenia dotycz•ce kampa-
+    ni wrzeòniowej tj.najazdu zbrojnego Niemiec na Polsk© we wrzeòniu
+    roku 1939r.
+    Autor : Przemek Sobstel.
+    Czcionka do napisu KAMPANIA WRZESNIOWA w menu : Mati
+ 2. POMOCE NAUKOWE.
+    - Andzej Pankowicz - " Historia 4 - Polska i ówiat Wsp¢àczesny "
+      WSiP, Warszawa 1996, wydanie sz¢ste
+    - Wojciech Roszkowski - " Historia Polski 1914-1990 "
+      Wydawnictwo Naukowe PWN, Warszawa 1991
+    - Gazety wojenne (nr.2)
+ 3. MENU Gù¢WNE.
+    Wyboru wykonujemy poprzez podòwietlenie kursorami (lub mysz•) i
+    naciòni©cie ENTERa (lub lewego przycisku myszki).
+    W menu gà¢wnym moæliwe s• takæe nast©puj•ce kombinacje klawiszy :
+     ESC    Wyjòcie z programu
+     ALT+F  Fakty
+     ALT+P  Pomoc
+     ALT+Q  Wyjòcie z programu (dziaàa w caàym programie)
+     ALT+Z  Zabawa
+    Do wyboru:
+    - FAKTY
+      Mi©dzy obydwoma opcjami przechodzi si© za pomoc• kursor¢w (le-
+      wego i prawego) lub poprzez naciòni©cie lewego przyciska myszki
+      gdy kursor znajduje si© na kt¢rymò z napis¢w ([*] lub Fakty).
+      + [*]
+        Wyb¢r poprzez:
+        = najechanie 'belk•' (uæywaj•c kursor¢w) na odpowiednie zaga-
+          dnienie i naciòni©cie ENTERa 
+        = najechanie 'belk•' (uæywaj•c myszki) na odpowiednie zaga-
+          dnienie i naciòni©cie lewego przycisku myszki
+        Do wyboru :
+        - Powr¢t do menu
+          Powr¢t do menu gà¢wnego. Takæe ESC.
+        - Wyjòcie z programu.
+          Zako‰czenie dziaàania caàego programu. Takæe ALT+Q.
+      + FAKTY
+        = najechanie 'belk•' (uæywaj•c kursor¢w) na odpowiednie zaga-
+          dnienie i naciòni©cie ENTERa (lub strzaàki w prawo)
+        = najechanie 'belk•' (uæywaj•c myszki) na odpowiednie zaga-
+          dnienie i naciòni©cie lewego przycisku myszki
+        = naciòni©cie ALT+F<numer_zagadnienia>, np. zagadnienie 3 wy-
+          biera si© poprzez naciòni©cie kombinacji klawiszy ALT i F3.
+        Przewijanie tekstu odbywa si© za pomoc• strzaàek (g¢rnej i
+        dolnej) oraz klawiszy PgUp i PgDn. Opuszczenie okna tekstowe-
+        go moæliwe jest poprzez naciòni©cie ESC lub strzaàki w lewo.
+    - ZABAWA
+      Przechodzenie mi©dzy opcjami, wychodzenie, wybieranie odpowied-
+      niego zagadnienia identycznie jak w FAKTY (patrz wyæej).
+      + [*]
+        Powr¢t do menu gà¢wnego lub opuszczenie programu.
+      + DO WYBORU
+        = Test
+           Losowane jest 6 pyta‰.Wyboru poprawnej odpowiedzi wykonuje
+           si© przy pomocy kursor¢w(g¢ra i d¢à) i poprzez naciòni©cie
+           ENTERA. Po zako‰czeniu testu ukazuje si© ocena, a potem 
+           program wraca do pozycji z pocz•tku opcji TEST.
+           Uwaga! Myszka nie ma w tej opcji æadnego przeznaczenia.
+        = Wrzesie‰'39
+           Chronologiczne przedstawienie kolejnych wydarze‰ kampani
+           wrzeòniowej. Kursorami (lewym i prawym) dokonujemy zmiany
+           dnia. Powr¢t do menu rozwijanego DO WYBORU odbywa si© za
+           pomoc• klawisza ESC. 
+        = MiniGra
+           Gra ta byàa robiona w lekkim poòpiechu i jest jeszcze nie
+           do ko‰ca dopracowana. Mog• zdarzaÜ si© r¢æne bà©dy,ale to
+           wynika z tego, æe autor aby przeprowadziÜ wszytkie testy
+           i dopracowaÜ wszystko na 100% musiaàby siedzieÜ nad tym
+           programem co najmniej p¢à roku. Poniæej znajduj• si© waæ-
+           niejsze problemy wykryte jeszcze przeze mnie.
+           Wszystkie waæniejsze inormacje napisane s• na wst©pie (po
+           uruchomieniu tej opcji) oraz koào mapki (pod napisem KLA-
+           WISZE).
+          - Okno INFO
+            znajduj• si© tam informacje o danej armii (iloòÜ ruch¢w
+            do wykorzystania w danej turze, kraj i w nawiasie imi©
+            gracza, peàna nazwa armii, dow¢dca)
+            * w przypadku rozpocz©cia bitwy lub ataku na miasto tam
+            moæna zobaczyÜ wynik rozgrywki
+          - Dane o jednostce
+                 ⁄ƒƒ¬ƒƒƒƒƒƒø
+                 ≥ak≥      ≥
+                 √ƒƒŸ   S  ≥
+                 ≥         ≥
+                 ≥  nazwa  ≥
+                 ¿ƒƒƒƒƒƒƒƒƒŸ 
+             kolor lini kwadrata/prostok•ta symbolizuj•cego dan• ar-
+             mi© m¢wi o przynaleænoòci krajowej
+             (niebieski-Niemcy,czerwony-Polska)
+             ak - aktywnoòÜ (biaày-aktywne)
+             nazwa - skr¢cona nazwa jednostki
+             S - aktualna siàa jednostki
+           Waæniejsze sprawy :
+           - kaæda armia ma tylko jeden ruch na tur©, moæna go wyko-
+             rzystaÜ atakuj•c lub po prostu ruszaj•c si©
+           - koniec tury - ALT+T
+	   - walka rozgrywa si© wtedy gdy dokonamy pr¢by wjazdu na
+	     pole zaj©te przez wrog• armi©
+           - atak na miasto odbywa si© wtedy gdy dokonamy pr¢by wjaz-
+             du (armi• niemieck•) na pole, na kt¢rym znajduje si© ja-
+             kieò miasto
+           - o zdobyciu miasta òwiadczy zmiana koloru napisu na nie-
+             bieski i pokazaniu si© w miejscu siày litery Z 
+           - naleæy unikaÜ grupowania jednostek na jednym polu
+           - naleæy unikaÜ grupowania kilku armii (m.in.polskich) w 
+             jednym mieòcie
+           - gdy armia polska wjedzie na pole zajmowane przez miasto,
+             przy ataku armia niemiecka najpierw toczy walk© z w/w
+             armi• polsk•, a gdy juæ j• zniszczy od razu w tej samej
+             turze odbywa si© atak na miasto
+           - gdy nie widaÜ, kt¢ry oddziaà jest aktywny naleæy nacis-
+             n•Ü Insert (nawet kilka razy), wtedy wszystko wr¢ci do
+             normy
+           - gdy oddziaày znajduj• si© na jednym polu to nie widaÜ,
+             kt¢ry jest aktywny
+           - prosz© unikaÜ wjeædæania oddziaàami polskimi do miasta
+             jeszcze nie zdobytego
+           UWAGA ! W minigrze mysz jest niedost©pna.
+    - POMOC
+      Przewijanie tekstu pomocy odbywa si© za pomoc• strzaàek (g¢rnej
+      i dolnej) oraz klawiszy PgUp i PgDn. Opuszczenie pomocy odbywa
+      si© za pomoc• klawisza ESC lub strzaàki w lewo.
+      Uwaga! W pomocy mysz jest niedost©pna.
+    - WYJóCIE
+      Zako‰czenie dziaàania programu.
+      Uwaga! Jeòli nie jest si© pewnym tego, æe chc© si© wyjòÜ z
+             programu polecam nie podòwietlaÜ myszk• tej opcji.
+ 4. Autor tego programu jest tylko czàowiekiem i na pewno nie m¢gà
+    si© ustrzec bà©d¢w, i tych maàych (np.liter¢wek) i tych wi©kszych
+    (np.zawieszania si© komputera w najmniej oczekiwanej chwili).
+    Dlatego przeprasza za wszelkie tego typu niedogodnoòci i æyczy 
+    miàej zabawy(?).
+ 5. Waæniejsze problemy.
+   * W polu tekstowym po pierwszym naciòni©ciu strzaàki w d¢à nic si©
+     nie dzieje. P¢´niej juæ przewijanie tekstu nast©puje bez æadnych
+     problem¢w.
+ 6. Podzi©kowania (w przypadkowej kolejnoòci) dla : firmy Borland Pa-
+    scal, Matiego, Adolfa Hitlera, wynalazcy przewijania tekstu, And-
+    rzeja Marciniaka, Alberta Einsteina, Jezusa, mojej babci i dziad-
+    ka, J¢zia Stalina, mojego brata Mariusza, Jasia,
+    i dla tych wszystkich, o kt¢rych zapomniaàem tu wspomnieÜ. Przepraszam.
+    
+                                           Przemysàaw Sobstel, kl.IIg
+ 
